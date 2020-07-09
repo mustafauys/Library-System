@@ -1,0 +1,12 @@
+c:\users\musta\documents\visual studio 2015\Projects\KutuphaneSistemi\KutuphaneSistemi\bin\Debug\KutuphaneSistemi.exe.config
+c:\users\musta\documents\visual studio 2015\Projects\KutuphaneSistemi\KutuphaneSistemi\bin\Debug\KutuphaneSistemi.exe
+c:\users\musta\documents\visual studio 2015\Projects\KutuphaneSistemi\KutuphaneSistemi\bin\Debug\KutuphaneSistemi.pdb
+c:\users\musta\documents\visual studio 2015\Projects\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\KutuphaneSistemi.csprojResolveAssemblyReference.cache
+c:\users\musta\documents\visual studio 2015\Projects\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\KutuphaneSistemi.Form1.resources
+c:\users\musta\documents\visual studio 2015\Projects\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\KutuphaneSistemi.Properties.Resources.resources
+c:\users\musta\documents\visual studio 2015\Projects\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\KutuphaneSistemi.csproj.GenerateResource.Cache
+c:\users\musta\documents\visual studio 2015\Projects\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\KutuphaneSistemi.exe
+c:\users\musta\documents\visual studio 2015\Projects\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\KutuphaneSistemi.pdb
+C:\Users\musta\Desktop\KutuphaneSistemi\KutuphaneSistemi\bin\Debug\KutuphaneSistemi.exe.config
+C:\Users\musta\Desktop\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\KutuphaneSistemi.exe
+C:\Users\musta\Desktop\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\KutuphaneSistemi.pdb
