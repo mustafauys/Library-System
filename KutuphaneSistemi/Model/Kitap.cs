@@ -10,7 +10,7 @@ namespace KutuphaneSistemi.Model
 {
     class Kitap
     {
-        public int Id { get; set; }
+        public int Id { ; ; }
         public String Ad { get; set; }
         public String Detay { get; set; }
         public String Yazar { get; set; }
