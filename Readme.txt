@@ -10,7 +10,6 @@ yapma şansımız var. Genelde projenin kullanım alanları kitap satıcıları 
 
 - Yapılan değişiklikler -
 
--Projede gelen bazı özellikler oldu.
 -Arama butonu eklendi.(Ad'a göre arama yapılıyor.)
 -Güncelleme butonu eklendi.
 -Panel içinde groupBox eklendi.
@@ -20,6 +19,7 @@ yapma şansımız var. Genelde projenin kullanım alanları kitap satıcıları 
 ------------------------------------------------
 
 - Veritabanı Restore İşlemleri -
+
 Sistemdeki bilgileri çekmek için veritabanımıza restore işlemi yapmamız gerekmektedir.
 Restore işlemleri için adımları takip ederek gerçekleştiriniz.
 Veritabanımızda Databases üstüne gelerek sağ tıklayıp RESTORE DATABASE.. tıklıyoruz.
