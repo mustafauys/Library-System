@@ -16,7 +16,7 @@ namespace KutuphaneSistemi
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ());
+            Application.Run(new Form1());
         }
     }
 }
