@@ -14,7 +14,7 @@ yapma şansımız var. Genelde projenin kullanım alanları kitap satıcıları 
 -Güncelleme butonu eklendi.
 -Panel içinde groupBox eklendi.
 -Yeni kayıtların sıralanış biçimi değiştirildi.
--Veritabanı bağlantısı eklendi. (Microsoft SQL Server Management Studio 2018)
+-Veritabanı bağlantısı eklendi.
 
 ------------------------------------------------
 
